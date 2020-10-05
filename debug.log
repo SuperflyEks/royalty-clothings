@@ -27,3 +27,16 @@
 [0818/215504.523:ERROR:exception_snapshot_win.cc(98)] thread ID 11032 not found in process
 [0818/215504.523:ERROR:exception_snapshot_win.cc(98)] thread ID 10804 not found in process
 [0818/215504.539:ERROR:exception_snapshot_win.cc(98)] thread ID 15388 not found in process
+[0920/232824.225:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.210:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.225:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.366:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.225:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 8272 not found in process
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 13324 not found in process
+[0920/232824.210:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 11884 not found in process
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 14764 not found in process
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 14660 not found in process
+[0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 2096 not found in process
+[0920/232824.600:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
