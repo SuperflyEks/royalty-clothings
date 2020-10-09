@@ -40,3 +40,12 @@
 [0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 14660 not found in process
 [0920/232824.600:ERROR:exception_snapshot_win.cc(99)] thread ID 2096 not found in process
 [0920/232824.600:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1006/165559.990:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1006/165600.054:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1006/165600.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1006/165600.074:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1006/165600.075:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1006/165600.075:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1006/165600.075:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1006/165600.125:ERROR:exception_snapshot_win.cc(99)] thread ID 16720 not found in process
+[1006/165600.125:ERROR:exception_snapshot_win.cc(99)] thread ID 15136 not found in process
