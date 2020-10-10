@@ -49,4 +49,4 @@ export const signUpSuccess = ({ user, additionalData }) => ({
 export const signUpFailure = (error) => ({
     type: UserActionTypes.SIGN_IN_FAILURE,
     payload: error
-});
+}); 
